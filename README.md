@@ -34,3 +34,25 @@
 
 
 ## 활용 방법
+
+### Docker
+- [시놀로지 공식 홈페이지 - Docker 설치 가능 모델](https://www.synology.com/ko-kr/dsm/packages/Docker)
+- [github nicewoong님의 Docker 사용법](https://nicewoong.github.io/development/2017/10/09/basic-usage-for-docker/)
+  - 시놀로지 GUI Docker가 아닌 CLI 사용법(설치 이외에 사용법 동일)
+
+### Plex
+- [pagein.net의 plex설치 (네이티브)](https://pagein.net/synology-xpenology-plex-media-server-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
+
+### Tvheadend
+- [Docker 설치부터 Tvheadend 구축까지 lightinglife님 블로그](http://lightinglife.tistory.com/174)
+
+
+### Reverse Proxy(역방향 프록시)
+- [클리앙 명량중년님의 시놀로지 역방향 프록시로 port 번호 없이 사용하기](https://www.clien.net/service/board/cm_nas/10938224)
+
+### SSL(HTTPS)
+- [클리앙 철이씨님의 무료 duckdns를 시놀로지에 등록해 봅시다](https://www.clien.net/service/board/cm_nas/9177427)
+
+
+### vi
+- (devfalledinmac님의 vi 사용법)[http://devfalledinmac.tistory.com/12]
