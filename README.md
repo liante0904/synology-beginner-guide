@@ -33,7 +33,7 @@
 
 
 
-## 활용 방법
+## 설치 및 세팅 방법
 
 ### Docker
 - [시놀로지 공식 홈페이지 - Docker 설치 가능 모델](https://www.synology.com/ko-kr/dsm/packages/Docker)
@@ -55,4 +55,4 @@
 
 
 ### vi
-- (devfalledinmac님의 vi 사용법)[http://devfalledinmac.tistory.com/12]
+- [devfalledinmac님의 vi 사용법](http://devfalledinmac.tistory.com/12)
