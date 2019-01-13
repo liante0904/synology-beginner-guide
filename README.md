@@ -24,35 +24,25 @@
 네트워크 저장소를 뜻하는 NAS(나스)는 개인정보를 다루므로 보안에 민감합니다.  
 나스를 내가 원하는 기능을 추가하며 사용하기 위해 기본적인 **네트워킹** 과 그에 알맞은 **보안지식**의 **습득이 선행**되어야 합니다.
 
-**네트워킹과 보안지식** 은 그 범위가 넓고 방대하므로 별도의 페이지로 대체합니다.  
-그 페이지는 하단을 클릭해주세요.
+가독성을 위해 카테고리에 따라 분리하여 내용을 관리 하고 있습니다.  
+습득 순서는 자유롭지만 **정렬된 순서대로 읽어나가는 것을 추천**드립니다.  
+ (설치 -> 보안 및 계정 세팅 -> 필요한 기능 추가의 순서)
+
+## 카테고리 설명
+ 
+  > 페이지 분류에 대한 간단한 설명입니다.
+  - [**네트워킹과 보안지식**](https://github.com/liante0904/synology-beginner-guide/blob/master/NETWORK.md)
+    - 개인서버 구축에 **필수적인 지식**을 다룹니다. 라우터와 포트 등등 가정에서 공유기를 사용함에 있어 익혀둘 내용도 담겨 있으므로 필독 페이지입니다. 이부분을 읽지 않으면 앞으로의 진행이 어렵기도 합니다.
+  - [**설치 직후 필요한 세팅**](https://github.com/liante0904/synology-beginner-guide/blob/master/AFTER_SETUP.md)
+    - 서버 사용에 편리한 설정을 다룹니다. 리눅스 기반의 계정과 권한 등등을 다루게 짧게 포함될 예정입니다. (현재 미작성)
+  - [**외부 패키지를 통한 기능 확장**](https://github.com/liante0904/synology-beginner-guide/blob/master/LINUX_PACKAGE.md) 
+    -  말머리 그대로 기본 패키지 외에 Third party 패키지를 이용하여 기능을 확장하는 내용들을 담고 있습니다. 
+    - 주로 시놀로지 패키지 센터 혹은 Docker를 이용한 외부 패키지 설치 및 세팅을 주로 다루므로 **포럼이나 블로그에 공개된 자료들의** _URL로 대체_ 됩니다.
+ 
 
 
+#
 
-### [네트워킹과 보안지식](https://github.com/liante0904/synology-beginner-guide/blob/master/NETWORK.md)
-
-
-
-## 설치 및 세팅 방법
-
-### Docker
-- [시놀로지 공식 홈페이지 - Docker 설치 가능 모델](https://www.synology.com/ko-kr/dsm/packages/Docker)
-- [github nicewoong님의 Docker 사용법](https://nicewoong.github.io/development/2017/10/09/basic-usage-for-docker/)
-  - 시놀로지 GUI Docker가 아닌 CLI 사용법(설치 이외에 사용법 동일)
-
-### Plex
-- [pagein.net의 plex설치 (네이티브)](https://pagein.net/synology-xpenology-plex-media-server-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
-
-### Tvheadend
-- [Docker 설치부터 Tvheadend 구축까지 lightinglife님 블로그](http://lightinglife.tistory.com/174)
-
-
-### Reverse Proxy(역방향 프록시)
-- [클리앙 명량중년님의 시놀로지 역방향 프록시로 port 번호 없이 사용하기](https://www.clien.net/service/board/cm_nas/10938224)
-
-### SSL(HTTPS)
-- [클리앙 철이씨님의 무료 duckdns를 시놀로지에 등록해 봅시다](https://www.clien.net/service/board/cm_nas/9177427)
-
-
-### vi
-- [devfalledinmac님의 vi 사용법](http://devfalledinmac.tistory.com/12)
+- ## [네트워킹과 보안지식](https://github.com/liante0904/synology-beginner-guide/blob/master/NETWORK.md)
+- ## [설치 직후 필요한 세팅](https://github.com/liante0904/synology-beginner-guide/blob/master/AFTER_SETUP.md)
+- ## [외부 패키지를 통한 기능 확장](https://github.com/liante0904/synology-beginner-guide/blob/master/LINUX_PACKAGE.md)
