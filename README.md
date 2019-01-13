@@ -31,11 +31,11 @@
 ## 카테고리 설명
  
   > 페이지 분류에 대한 간단한 설명입니다.
-  - [**네트워킹과 보안지식**](https://github.com/liante0904/synology-beginner-guide/blob/master/NETWORK.md)
+  - [**네트워킹과 보안지식**](https://github.com/liante0904/synology-beginner-guide/blob/master/1-NETWORK.md)
     - 개인서버 구축에 **필수적인 지식**을 다룹니다. 라우터와 포트 등등 가정에서 공유기를 사용함에 있어 익혀둘 내용도 담겨 있으므로 필독 페이지입니다. 이부분을 읽지 않으면 앞으로의 진행이 어렵기도 합니다.
-  - [**설치 직후 필요한 세팅**](https://github.com/liante0904/synology-beginner-guide/blob/master/AFTER_SETUP.md)
+  - [**설치 직후 필요한 세팅**](https://github.com/liante0904/synology-beginner-guide/blob/master/2-AFTER_SETUP.md)
     - 서버 사용에 편리한 설정을 다룹니다. 리눅스 기반의 계정과 권한 등등을 다루게 짧게 포함될 예정입니다. (현재 미작성)
-  - [**외부 패키지를 통한 기능 확장**](https://github.com/liante0904/synology-beginner-guide/blob/master/LINUX_PACKAGE.md) 
+  - [**외부 패키지를 통한 기능 확장**](https://github.com/liante0904/synology-beginner-guide/blob/master/3-LINUX_PACKAGE.md) 
     -  말머리 그대로 기본 패키지 외에 Third party 패키지를 이용하여 기능을 확장하는 내용들을 담고 있습니다. 
     - 주로 시놀로지 패키지 센터 혹은 Docker를 이용한 외부 패키지 설치 및 세팅을 주로 다루므로 **포럼이나 블로그에 공개된 자료들의** _URL로 대체_ 됩니다.
  
@@ -43,6 +43,6 @@
 
 #
 
-- ## [네트워킹과 보안지식](https://github.com/liante0904/synology-beginner-guide/blob/master/NETWORK.md)
-- ## [설치 직후 필요한 세팅](https://github.com/liante0904/synology-beginner-guide/blob/master/AFTER_SETUP.md)
-- ## [외부 패키지를 통한 기능 확장](https://github.com/liante0904/synology-beginner-guide/blob/master/LINUX_PACKAGE.md)
+- ## [네트워킹과 보안지식](https://github.com/liante0904/synology-beginner-guide/blob/master/1-NETWORK.md)
+- ## [설치 직후 필요한 세팅](https://github.com/liante0904/synology-beginner-guide/blob/master/2-AFTER_SETUP.md)
+- ## [외부 패키지를 통한 기능 확장](https://github.com/liante0904/synology-beginner-guide/blob/master/3-LINUX_PACKAGE.md)
